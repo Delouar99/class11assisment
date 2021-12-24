@@ -1,0 +1,102 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box{
+width: 100%;
+height: auto;
+
+
+}
+
+.box-stacture img{
+    width: 150px;
+    height: 200px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.box .box-stacture{
+    text-align: center;
+  
+}
+
+.box-stacture{
+    width: 33.33%;
+    float: left;
+    border: 2px solid #ddd;
+    box-sizing: border-box;
+    padding: 10px ;
+    background-color: rgb(51, 122, 9);
+    color: white;
+}
+
+
+
+/* student css  start .............*/
+
+
+.child{
+    width: 100%;
+    height: auto
+}
+
+.childreen img{
+    width: 150px;
+    height: 200px;
+    border-radius: 40%;
+    display: inline-block;
+
+}
+
+
+.child .childreen{
+    text-align: center;
+}
+
+
+.childreen{
+    width: 33.33%;
+    float: left;
+    border: 2px solid #ddd;
+    box-sizing: border-box;
+    padding: 10px ;
+    background-color: rgb(141, 185, 18);
+    color: white;
+}
+
+
+
+
+/* phone book dom start  */
+
+
+.phone{
+    width: 100%;
+    height: auto
+}
+
+
+.phone-book img{
+    width: 150px;
+    height: 200px;
+    border-radius: 40%;
+    display: inline-block;
+}
+
+.phone .phone-book{
+    text-align: center;
+}
+
+.phone-book{
+    width: 33.33%;
+    float: left;
+    border: 2px solid #ddd;
+    box-sizing: border-box;
+    padding: 10px ;
+    background-color: rgb(47, 180, 221);
+    color: white;
+}
